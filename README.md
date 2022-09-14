@@ -1,1 +1,1 @@
-# C-Functions
+C++ Functions
